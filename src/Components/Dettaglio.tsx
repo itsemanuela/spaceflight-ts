@@ -26,7 +26,7 @@ const Dettaglio = () => {
         href={articolo.url}
         target="_blank"
         rel="noreferrer"
-        className="btn btn-info"
+        className="btn btn-light"
       >
         Leggi l'articolo originale
       </a>
